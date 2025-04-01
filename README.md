@@ -1,23 +1,23 @@
 🚀 Features Implemented in the Drawing App
-Canvas Setup & Background Management – Canvas ka size dynamically set hota hai aur default white background assign hoti hai.
+Dynamic Canvas Setup & Background Management – The canvas size is dynamically adjusted, and a default white background is assigned.
 
-Different Drawing Tools – Brush, Eraser, Rectangle, Circle, aur Triangle draw karne ka option diya gaya hai.
+Multiple Drawing Tools – Supports Brush, Eraser, Rectangle, Circle, and Triangle for versatile drawing options.
 
-Live Shape Preview – Rectangle, Circle, aur Triangle draw karte waqt live preview dikhai deta hai.
+Live Shape Preview – Provides real-time shape previews for Rectangle, Circle, and Triangle while drawing.
 
-Fill & Stroke Support – Shapes ko fill karne ya sirf outline banane ka option diya gaya hai.
+Fill & Stroke Support – Allows users to either fill shapes with color or draw only the outline.
 
-Custom Brush Size – Users brush size customize kar sakte hain.
+Custom Brush Size – Enables users to adjust the brush size as per their preference.
 
-Color Picker & Preset Colors – Multiple color options diye gaye hain aur custom colors select karne ka option bhi hai.
+Color Picker & Preset Colors – Offers multiple preset colors and a custom color selection option.
 
-Undo-like Functionality – Drawing karte waqt previous state save hoti hai taaki live preview ke dauraan unwanted strokes avoid ho sakein.
+Undo-like Functionality – Saves the previous canvas state to prevent unwanted strokes while drawing.
 
-Eraser Tool – Eraser bhi diya gaya hai jo canvas ke selected part ko erase kar sakta hai.
+Eraser Tool – Allows users to erase specific portions of the canvas.
 
-Clear Canvas Button – Pura canvas ek click me clear karne ka option.
+Clear Canvas Button – Provides a one-click option to reset the canvas.
 
-Save Drawing as Image – Drawing ko JPG format me save karne ka option diya gaya hai.
+Save Drawing as Image – Allows users to export their drawings in JPG format.
 
 🛠 Technologies Used
 HTML5 Canvas API
